@@ -47,7 +47,7 @@
         <article class="card">
             <h2>Publicación</h2>
             <p>
-                Posteriormente se conectará con Neon, GitHub y Render.
+                Posteriormente se conectará con Neon, GitHub y Render. Y cuando todo funcione, nos vamos de fiesta.
             </p>
         </article>
     </section>
